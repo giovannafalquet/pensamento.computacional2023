@@ -1,0 +1,26 @@
+h1 {
+    text-align:center;
+    background-color: aqua;
+}
+h3{
+    background-color: blue;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: blueviolet;
+}
+.parágrafo1 {
+    background-color: rgb(35, 161, 10)
+    color: blueviolet
+}
+.parágrafo2 {
+    background-color: rgb(175, 58, 58)
+}
