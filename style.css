@@ -2,8 +2,13 @@ h1 {
     text-align:center;
     background-color: aqua;
 }
+h2{
+    text-align: center;
+}
 h3{
+    font-style: oblique;
     background-color: blue;
+    text-align: center;
 }
 
 p {
@@ -17,10 +22,23 @@ strong {
 body {
     background-color: blueviolet;
 }
+.imagem1 {
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
 .parágrafo1 {
-    background-color: rgb(35, 161, 10)
-    color: blueviolet
+    background-color: forestgreen
+
 }
 .parágrafo2 {
-    background-color: rgb(175, 58, 58)
+   color: aqua;
+    font-style: italic
 }
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
