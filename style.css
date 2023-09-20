@@ -6,8 +6,7 @@ h2{
     text-align: center;
 }
 h3{
-    font-style: oblique;
-    background-color: blue;
+    font-style: none;
     text-align: center;
 }
 
@@ -16,26 +15,26 @@ p {
     font-size: medium;
 }
 strong {
-    font-size: larger;
+    font-size:medium;
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(187, 240, 215);
 }
 .imagem1 {
-    width: 200px;
+    width: 300px;
 }
 .imagemcentralizada {
  text-align: center;
 }
 
 .parágrafo1 {
-    background-color: forestgreen
+    font-size: medium;
 
 }
 .parágrafo2 {
-   color: aqua;
-    font-style: italic
+   color: rgb(2, 5, 2);
+    font-style: none
 }
 .lista {
         display: inline-block;
