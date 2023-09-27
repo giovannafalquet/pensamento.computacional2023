@@ -2,17 +2,40 @@ h1 {
     text-align:center;
     background-color: aqua;
 }
-h2{
-    text-align: center;
-}
-h3{
-    font-style: none;
+
+.paragrafotitulo {
     text-align: center;
 }
 
-p {
+h2 {
     text-align: center;
+    background-color: aqua;
+}
+
+h3 {
+    font-style: none;
+    text-align: center;
+    
+}
+.titulo2pt1 {
+    background-color: aqua;
+}
+
+.titulo3pt2 {
+    text-align: left;
+    margin-left: 3%
+
+}
+
+h4 {
+    font-size: large;
+    background-color: aqua;
+}
+p {
+    text-align: left;
     font-size: medium;
+    margin-left: 3%
+
 }
 strong {
     font-size:medium;
@@ -22,7 +45,7 @@ body {
     background-color: rgb(187, 240, 215);
 }
 .imagem1 {
-    width: 300px;
+    width: 400px;
 }
 .imagemcentralizada {
  text-align: center;
@@ -36,8 +59,10 @@ body {
    color: rgb(2, 5, 2);
     font-style: none
 }
+
+
 .lista {
-        display: inline-block;
-        padding: 5%;
+        display: grid;
+        padding: 0,5%;
         margin-right: 10%;
     }
