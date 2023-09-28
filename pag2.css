@@ -1,0 +1,38 @@
+h1 {
+    text-align:center;
+    background-color: aqua;
+}
+
+h2 {
+    text-align: center;
+    background-color: aqua;
+}
+
+h3 {
+    font-style: none;
+    text-align: center;
+}
+
+h4 {
+    font-size: large;
+    background-color: aqua;
+}
+p {
+    text-align: left;
+    font-size: medium;
+    margin-left: 3%
+
+}
+strong {
+    font-size:medium;
+}
+
+body {
+    background-color: rgb(187, 240, 215);
+}
+.imagem1 {
+    width: 400px;
+}
+.imagemcentralizada {
+ text-align: center;
+}
