@@ -1,6 +1,6 @@
 h1 {
     text-align:center;
-    background-color: aqua;
+    background-color: rgb(86, 120, 182);
 }
 
 .paragrafotitulo {
@@ -9,7 +9,7 @@ h1 {
 
 h2 {
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(86, 120, 182);
 }
 
 h3 {
@@ -18,7 +18,7 @@ h3 {
     
 }
 .titulo2pt1 {
-    background-color: aqua;
+    background-color: rgb(86, 120, 182);
 }
 
 .titulo3pt2 {
@@ -29,7 +29,7 @@ h3 {
 
 h4 {
     font-size: large;
-    background-color: aqua;
+    background-color:  rgb(86, 120, 182);
 }
 p {
     text-align: left;
@@ -42,7 +42,7 @@ strong {
 }
 
 body {
-    background-color: rgb(187, 240, 215);
+    background-color: rgb(44, 157, 177);
 }
 .imagem1 {
     width: 400px;
@@ -56,7 +56,7 @@ body {
 
 }
 .parágrafo2 {
-   color: rgb(2, 5, 2);
+   font-color: rgb(255, 255, 255);
     font-style: none
 }
 
