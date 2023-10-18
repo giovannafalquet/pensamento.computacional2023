@@ -61,8 +61,12 @@ body {
 }
 
 
-.lista {
-        display: grid;
-        padding: 0,5%;
-        margin-right: 10%;
+    .lista {
+        display: inline-block;
+        padding: 3%;
+        margin-right: 3%;
+        padding: 3%;
+        border-color: rgb(86, 120, 182);
+        border-width: 10px;
+        border-style: solid;
     }
