@@ -1,11 +1,11 @@
 h1 {
     text-align:center;
-    background-color: aqua;
+    background-color:rgb(86, 120, 182);
 }
 
 h2 {
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(86, 120, 182);
 }
 
 h3 {
@@ -15,7 +15,7 @@ h3 {
 
 h4 {
     font-size: large;
-    background-color: aqua;
+    background-color: rgb(86, 120, 182);
 }
 p {
     text-align: left;
@@ -28,7 +28,7 @@ strong {
 }
 
 body {
-    background-color: rgb(187, 240, 215);
+    background-color: rgb(44, 157, 177);
 }
 .imagem1 {
     width: 400px;
@@ -39,4 +39,15 @@ body {
 
 .parágrafo1 {
     font-size: medium;
+}
+
+
+.lista {
+    display: inline-block;
+    padding: 3%;
+    margin-right: 3%;
+    padding: 3%;
+    border-color: rgb(86, 120, 182);
+    border-width: 10px;
+    border-style: solid;
 }
