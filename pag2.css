@@ -53,16 +53,15 @@ body {
 }
 
 nav a hover {
-    color: orange;
+    color: darkorchid;
     text-decoration: underline;
 }
 
 
 nav a{
     text-align: center;
-    color: darkorchid;
+    color: black;
     font-weight: 300;
     font-size: 100%;
     text-decoration: none ;
-    backgound-color: pink;
 }
